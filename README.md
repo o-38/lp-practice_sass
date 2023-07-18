@@ -1,1 +1,0 @@
-# lp-practice_sass
