@@ -1,0 +1,8 @@
+@mixin mainText($fSize,$color,$pBottom,$pTop) {
+  font-weight: 700;
+  padding-top: $pTop;
+  padding-bottom: $pBottom;
+  text-align: center;
+  font-size: $fSize;
+  color: $color;
+}
